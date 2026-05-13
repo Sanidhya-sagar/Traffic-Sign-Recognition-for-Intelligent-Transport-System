@@ -1,4 +1,4 @@
-# major-project
+# Major-Project
 This is a 8th Semester major project which aims to build a robust Traffic Sign Recognition model  for Intelligent Transportation Systems (ITS) by integrating datasets for real-world adaptability and better accuracy, training using YOLOv8.
 
 ## Datasets Used
